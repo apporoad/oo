@@ -1,4 +1,4 @@
-<div align=center><img src="https://raw.githubusercontent.com/apporoad/oo/master/docs/logo.jpg"/></div>
+<div align=center><img src="https://raw.githubusercontent.com/apporoad/oo/master/docs/logo.png"/></div>
 
 
 
